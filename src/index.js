@@ -62,7 +62,7 @@ bot.onText(/\/city (.+)/, function (msg, match) {
             set.toLocaleTimeString() +
             "\nCountry: " +
             res.sys.country +
-            "\Developer Name: Umesh Bhati\nMy Portfolio Website: https://umeshbhati.netlify.app/ "
+            "\nDeveloper Name: Umesh Bhati\nMy Portfolio Website: https://umeshbhati.netlify.app/ "
         );
       }
     }
